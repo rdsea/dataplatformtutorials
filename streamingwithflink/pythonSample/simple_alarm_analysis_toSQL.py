@@ -31,6 +31,9 @@ class TrendDetection(ProcessWindowFunction):
         self._conn = None
         self._cursor = None
 
+    def open(self, runtime_context):
+        self._ensure_connection()
+
     def _ensure_connection(self):
         if self._conn is not None:
             return
