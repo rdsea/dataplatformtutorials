@@ -2,13 +2,18 @@
 
 ## Overview
 
+This repository includes several tutorials for studying data platforms. They are designed for the courses at Aalto University.
+ - [Big Data Platforms](https://github.com/rdsea/bigdataplatforms), 2019-2026
+ - [Principles and Techniques of Data Platforms](https://github.com/rdsea/POD), 2027-
+
+
+## Tutorials/Hands-on
+
 There are several tutorials. We organize them into different sections that one can practice in sync with lectures.
 
 >Some have been discontinued but still they can be useful for learning.
 
 Check the subdirectories to see some small examples we use in our courses.
-
-## Tutorials/Hands-on
 
 ### Basic tutorial cloud computing
 
@@ -50,3 +55,14 @@ Check the subdirectories to see some small examples we use in our courses.
 
 You might see many code examples about IoT, Edge and Clouds from our [IoTCloudSamples](https://github.com/rdsea/IoTCloudSamples/) that you can reuse for big data studies.
 
+## Licenses and citation
+
+Citation (if you use the material):
+Hong-Linh Truong, *Tutorials for Data Platforms*, https://github.com/rdsea/dataplatformtutorials, 2019-
+
+**Copyrights/Licences: the lecture slides and course structure/info use [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Individual tutorials, code and examples have their own licenses ([Apache Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0))**
+
+
+## Contact
+
+[Linh Truong](https://users.aalto.fi/~truongh4/)
